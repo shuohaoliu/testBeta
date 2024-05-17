@@ -1,0 +1,6 @@
+version: 0.2
+
+phases:
+  build:
+    commands:
+       - echo "This is buildspec yaml file from the repo itself"
